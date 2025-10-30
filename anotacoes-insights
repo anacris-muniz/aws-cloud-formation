@@ -1,0 +1,14 @@
+##  Anotações e Insights
+
+Durante o laboratório, foram observados os seguintes aprendizados:
+
+- A infraestrutura como código (IaC) permite reproduzir ambientes com rapidez e precisão.
+
+- A sintaxe YAML do CloudFormation é legível e facilita a documentação e revisão de código. 
+
+- Entender a relação entre parâmetros, recursos e saídas (Outputs) é essencial para criar templates eficientes.  
+
+- A integração de EC2 + S3 + IAM demonstra como serviços AWS podem ser orquestrados automaticamente. 
+
+- A prática reforça o uso do GitHub como ferramenta de controle de versão e portfólio técnico.
+
